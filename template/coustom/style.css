@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Freehand&family=IBM+Plex+Sans+Condensed:ital,wght@1,700&family=Poiret+One&display=swap');
+* p{
+    font-family: 'Freehand', cursive;
+    font-size: 20px;
+}
+* h1{
+    font-family: 'Poiret One', cursive;
+}
+* h4{
+    font-family: 'Poiret One', cursive;
+}
+* a{
+    font-family: 'IBM Plex Sans Condensed', sans-serif;
+}
+html{
+    scroll-behavior: smooth;
+    }
+    
+.h_text h1{
+    line-height: 60px;
+}
+nav{
+    z-index: 20000;
+}
+#home{
+    margin-top: 65px;
+    
+}
+.con_style{
+    width: 70%;
+    margin: auto;
+    border: 5px solid orangered;
+    padding: 14px;
+    box-shadow: 2px 0px 20px 5px orange;
+
+}
+label{
+    margin-top: 10px;
+}
+.buttom_bar{
+    width: 100%;
+    background-color: black;
+    padding: 10px;
+    margin-top: 60px;
+    border-top: 5px solid green;
+}
+.buttom_bar p{
+    color: #fff;
+    text-align: center;
+}
